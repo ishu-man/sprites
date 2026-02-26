@@ -63,7 +63,7 @@ sprites
         \- generation viii
             \- icons (PNGs with female variants)
             \- brilliant-diamond-shining-pearl (PNGs)
-        \- generation xi
+        \- generation ix
             \- scarlet-violet (PNGs with female)
     \- default PokeAPI sprites (PNGs with back, female, shiny, back-female, back-shiny, shiny-female variants)
 \- items
